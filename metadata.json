@@ -1,0 +1,6 @@
+{
+  "name": "CITY Électronique",
+  "description": "Plateforme e-commerce d'électronique haut de gamme au Maroc avec commande WhatsApp, catalogue haute performance et gestion des stocks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
